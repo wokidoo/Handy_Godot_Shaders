@@ -1,5 +1,5 @@
 # Handy Godot Shaders
-Collection of useful shaders snippets for Godot
+Collection of useful shader snippets for Godot
 
 ## Table Of Contents
 
