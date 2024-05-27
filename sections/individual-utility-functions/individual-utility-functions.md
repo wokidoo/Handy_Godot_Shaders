@@ -16,6 +16,6 @@ void vertex(){
 ```
 ## Table Of Contents
 - [wave.gdshaderinc](wave.gdshaderinc)
-<p align="center">
-<img src="https://i.imgur.com/M4eHo9I.gif" alt="wave" title="wave">
-</p>
+<div style="text-align: center;">
+  <img src="https://github.com/wokidoo/Handy_Godot_Shaders/assets/77600208/64531e7e-c3e8-4d9f-aeeb-3c26cce10003" width="250" />
+</div>
