@@ -14,3 +14,5 @@ void vertex(){
 }
 
 ```
+## Table Of Contents
+- [wave.gdshaderinc](sections/individual-utility-functions/wave.gdshaderinc)
