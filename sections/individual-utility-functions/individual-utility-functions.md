@@ -16,3 +16,6 @@ void vertex(){
 ```
 ## Table Of Contents
 - [wave.gdshaderinc](wave.gdshaderinc)
+<p align="center">
+<img src="https://i.imgur.com/M4eHo9I.gif" alt="wave" title="wave">
+</p>
