@@ -2,9 +2,9 @@
 // May be used to create a mask along a mesh
 
 // !!!PARAMETERS!!!
-// axis: mesh axis along which the wave will move (e.g VERTEX.x)
+// axis: mesh axis along which the mask will appear (e.g VERTEX.x)
 // mask_start: location of the mask start along the axis
-// mask_gradient: how gradient the mask is relative to the axis
+// mask_gradient: how gradient the mask is relative to the mask_start
 
 
 float body_mask(float axis, float mask_start, float mask_gradient){
